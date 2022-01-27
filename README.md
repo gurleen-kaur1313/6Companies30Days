@@ -3,4 +3,5 @@
 2. Amazon - done
 3. Microsoft - done
 4. Adobe - done
-5. Intuit - in progress..
+5. Intuit - done
+6. Walmart - in progress...
