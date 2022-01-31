@@ -4,4 +4,4 @@
 3. Microsoft - done
 4. Adobe - done
 5. Intuit - done
-6. Walmart - in progress...
+6. Walmart - done
